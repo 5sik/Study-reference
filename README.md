@@ -1,8 +1,8 @@
 # Study-reference
 
 
-### Eigen3 
-관련 코드설명 [link](https://runebook.dev/ko/docs/eigen3/-index-)\
+### Eigen3 (Library)
+관련 코드설명_main [link](https://runebook.dev/ko/docs/eigen3/-index-)\
 관련 코드설명 [link](https://runebook.dev/ko/docs/eigen3/group__quickrefpage) 
 
 
