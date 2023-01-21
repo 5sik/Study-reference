@@ -1,5 +1,8 @@
 # Study-reference
 
+### VScode for C++ 
+링크(for window) : [link](https://velog.io/@youhyeoneee/%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-VS-Code-%EC%9[…]-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-Windows)\
+링크(for Ubuntu) : [link](https://swiftcam.tistory.com/388)
 
 ### Eigen3 (Library)
 관련 코드설명(main) : [link](https://runebook.dev/ko/docs/eigen3/-index-)\
