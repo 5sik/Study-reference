@@ -31,6 +31,8 @@ papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.htm
 5. Text book \
 링크 : [link](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
+6. DL Regularization \
+링크(Youtube) : [link](https://www.youtube.com/watch?v=pJCcGK5omhE&t=21s)
 
 ### Github 사용법
 링크 : [link](https://backlog.com/git-tutorial/kr/reference/remote.html)
