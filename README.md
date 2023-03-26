@@ -35,7 +35,7 @@ papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.htm
 링크(Youtube) : [link](https://www.youtube.com/watch?v=pJCcGK5omhE&t=21s)
 
 ### Github 사용법
-링크 : [link](https://backlog.com/git-tutorial/kr/reference/remote.html)
+링크 : [link](https://backlog.com/git-tutorial/kr/)
 
 ### urdf 용어 설명
 링크 : [link](http://wiki.ros.org/urdf/XML)
