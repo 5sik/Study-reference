@@ -26,8 +26,9 @@ papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.htm
 3. 버클리 과목 \
 링크 : [link](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
-4. Machine Learning Notebook \
-링크 : [link](https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recurrent-neural-network/long_short_term_memory)
+4. Machine Learning Notebook & Lecture \
+링크 : [link](https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recurrent-neural-network/long_short_term_memory)\
+링크(문익철교수님) : [link](https://kooc.kaist.ac.kr/machinelearning1_17)
 
 5. Text book \
 링크 : [link](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
