@@ -12,7 +12,7 @@
 관련 코드설명 : [link](https://runebook.dev/ko/docs/eigen3/group__quickrefpage) 
 
 
-### 강화학습 & 딥러닝:
+### 강화학습 & 딥러닝 & 머신러닝 :
 1. 실버 렉쳐 시리즈 \
 링크(강의영상) : [link](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ&ab_channel=DeepMind)\
 링크(블로그1) : [link](https://daeson.tistory.com/category/Reinforcement%20Learning)\
