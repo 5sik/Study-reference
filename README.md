@@ -42,3 +42,6 @@ papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.htm
 
 ### urdf 용어 설명
 링크 : [link](http://wiki.ros.org/urdf/XML)
+
+### Matrix 공부 
+링크: [https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf]
