@@ -18,7 +18,8 @@
 링크(블로그1) : [link](https://daeson.tistory.com/category/Reinforcement%20Learning)\
 링크(블로그2) : [link](https://sumniya.tistory.com/2)\
 링크(유튜브링크_혁편하임) : [link](https://www.youtube.com/watch?v=cvctS4xWSaU&list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g&index=1)\
-링크(신하용 교수님) : [link](https://kooc.kaist.ac.kr/reinforcement)
+링크(신하용 교수님) : [link](https://kooc.kaist.ac.kr/reinforcement)\
+링크(실제 코드) : [link](https://github.com/dennybritz/reinforcement-learning)
 
 2. spinnig up \
 링크 : [link](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)\
