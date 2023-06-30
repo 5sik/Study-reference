@@ -46,3 +46,6 @@ papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.htm
 
 ### Matrix 공부 
 링크: [link](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
+
+### Pytorch 공부
+링크: [link](https://gaussian37.github.io/dl-pytorch-snippets/)
