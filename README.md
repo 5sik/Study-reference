@@ -11,8 +11,9 @@
 관련 코드설명(main) : [link](https://runebook.dev/ko/docs/eigen3/-index-)\
 관련 코드설명 : [link](https://runebook.dev/ko/docs/eigen3/group__quickrefpage) 
 
-### Robot Dynamics
-Modern Robotics supplement Video : [link](https://modernrobotics.northwestern.edu/nu-gm-book-resource/introduction-autoplay/#department)
+### Dynamics
+Modern Robotics supplement Video : [link](https://modernrobotics.northwestern.edu/nu-gm-book-resource/introduction-autoplay/#department)\
+Simple Physics Engine : [link](http://www.ode.org/ode-userguide-021107.html)
 
 ### 강화학습 & 딥러닝 & 머신러닝 :
 1. 강화학습 \
