@@ -53,3 +53,6 @@ papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.htm
 
 ### Pytorch 공부
 링크: [link](https://gaussian37.github.io/dl-pytorch-snippets/)
+
+### Ubuntu(Linux) 공부
+chmod : [link](https://recipes4dev.tistory.com/175)
