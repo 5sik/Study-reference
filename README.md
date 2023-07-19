@@ -56,3 +56,7 @@ papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.htm
 
 ### Ubuntu(Linux) 공부
 chmod : [link](https://recipes4dev.tistory.com/175)
+
+### Solidworks Modeling 공부
+유튜브 : [link](https://www.youtube.com/watch?v=1_I0vJlumNw&list=PLQ2qPc8jRj4Pei8QThexFRA4QF7_J_Qx5)\
+         [link](https://www.youtube.com/watch?v=oql6o_2hZJA&list=PLQ2qPc8jRj4NFaOFiY91TW9LYZHYEgVtv)
