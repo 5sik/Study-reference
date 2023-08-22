@@ -22,23 +22,24 @@ Simple Physics Engine : [link](http://www.ode.org/ode-userguide-021107.html)
 링크(블로그2) : [link](https://sumniya.tistory.com/2)\
 링크(유튜브링크_혁편하임) : [link](https://www.youtube.com/watch?v=cvctS4xWSaU&list=PL_iJu012NOxehE8fdF9me4TLfbdv3ZW8g&index=1)\
 링크(신하용 교수님) : [link](https://kooc.kaist.ac.kr/reinforcement)\
-링크(실제 코드) : [link](https://github.com/dennybritz/reinforcement-learning)
+링크(실제 코드) : [link](https://github.com/dennybritz/reinforcement-learning)\
+링크(블로그/TRPO) : [link](https://hiddenbeginner.github.io/rl/2022/09/18/trpo.html)
 
-2. spinnig up \
+3. spinnig up \
 링크 : [link](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html)\
 papers : [link](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
-3. 버클리 과목 \
+4. 버클리 과목 \
 링크 : [link](https://rail.eecs.berkeley.edu/deeprlcourse/)
 
-4. Machine Learning Notebook & Lecture \
+5. Machine Learning Notebook & Lecture \
 링크 : [link](https://calvinfeng.gitbook.io/machine-learning-notebook/supervised-learning/recurrent-neural-network/long_short_term_memory)\
 링크(문익철교수님) : [link](https://kooc.kaist.ac.kr/machinelearning1_17)
 
-5. Text book \
+6. Text book \
 링크 : [link](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
-6. DL Regularization \
+7. DL Regularization \
 링크(Youtube) : [link](https://www.youtube.com/watch?v=pJCcGK5omhE&t=21s)
 
 ### Github 사용법
