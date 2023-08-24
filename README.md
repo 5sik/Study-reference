@@ -62,4 +62,5 @@ chmod : [link](https://recipes4dev.tistory.com/175)
 유튜브 : [link](https://www.youtube.com/watch?v=1_I0vJlumNw&list=PLQ2qPc8jRj4Pei8QThexFRA4QF7_J_Qx5) & [link](https://www.youtube.com/watch?v=oql6o_2hZJA&list=PLQ2qPc8jRj4NFaOFiY91TW9LYZHYEgVtv)
 
 ### Convex optimization 공부
-링크 : [link](https://convex-optimization-for-all.github.io/)
+링크 : [link](https://convex-optimization-for-all.github.io/)\
+Line Search(youtube) : [link1](https://www.youtube.com/watch?v=CvQey4HM78g) & [link2](https://www.youtube.com/watch?v=lfoLOx1zWUw)
