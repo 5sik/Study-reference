@@ -63,4 +63,5 @@ chmod : [link](https://recipes4dev.tistory.com/175)
 
 ### Convex optimization 공부
 링크 : [link](https://convex-optimization-for-all.github.io/)\
-Line Search(youtube) : [link1](https://www.youtube.com/watch?v=CvQey4HM78g) & [link2](https://www.youtube.com/watch?v=lfoLOx1zWUw)
+Line Search(youtube) : [link1](https://www.youtube.com/watch?v=CvQey4HM78g) & [link2](https://www.youtube.com/watch?v=lfoLOx1zWUw)\
+Conjugate gradient method : [Blog](https://joonleesky.github.io/posts/Conjugate_Gradient/)
