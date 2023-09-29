@@ -1,7 +1,8 @@
 # Study-reference
 
 ### CMake 공부
-링크 : [link](https://www.tuwlab.com/index.php?mid=ece&category=7074)
+링크 : [link](https://www.tuwlab.com/index.php?mid=ece&category=7074)\
+링크 : [link](https://gist.github.com/graykode/5972396e8c00ff7b704938643f95fd72)
 
 ### VScode for C++ 
 링크(for window) : [link](https://velog.io/@youhyeoneee/%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95-VS-Code-%EC%97%90%EC%84%9C-CC-%EC%BD%94%EB%94%A9-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-Windows)\
